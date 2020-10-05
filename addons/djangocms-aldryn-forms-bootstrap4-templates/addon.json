@@ -1,0 +1,6 @@
+{
+    "installed-apps": [
+        "aldryn_forms_bs4_templates"
+    ],
+    "package-name": "djangocms-aldryn-forms-bootstrap4-templates"
+}
